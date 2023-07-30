@@ -1,6 +1,6 @@
 package com.emerson.courses.softblue.fundamentos_java.p4_heranca_e_polimorfismo;
 
-import com.emerson.courses.algaworks.utils.Mostrar;
+import com.emerson.utils.Mostrar;
 
 public class A64AplicandoPolimorfismoNoJava {
   /*

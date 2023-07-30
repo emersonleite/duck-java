@@ -2,7 +2,7 @@ package com.emerson.courses.algaworks.banco.app;
 
 import com.emerson.courses.algaworks.banco.modelo.Banco;
 import com.emerson.courses.algaworks.banco.modelo.Conta;
-import com.emerson.courses.algaworks.utils.Mostrar;
+import com.emerson.utils.Mostrar;
 
 import java.math.BigDecimal;
 import java.util.Optional;

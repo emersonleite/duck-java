@@ -1,7 +1,7 @@
 package com.emerson.courses.algaworks.banco.app;
 
 import com.emerson.courses.algaworks.banco.modelo.Pessoa;
-import com.emerson.courses.algaworks.utils.Mostrar;
+import com.emerson.utils.Mostrar;
 
 import java.util.HashSet;
 import java.util.Set;

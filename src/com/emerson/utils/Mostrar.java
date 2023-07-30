@@ -1,4 +1,4 @@
-package com.emerson.courses.algaworks.utils;
+package com.emerson.utils;
 
 public class Mostrar {
   public static void titulo(String titulo) {

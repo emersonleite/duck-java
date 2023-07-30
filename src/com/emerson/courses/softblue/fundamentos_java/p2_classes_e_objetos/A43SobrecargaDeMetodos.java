@@ -1,6 +1,6 @@
 package com.emerson.courses.softblue.fundamentos_java.p2_classes_e_objetos;
 
-import com.emerson.courses.algaworks.utils.Mostrar;
+import com.emerson.utils.Mostrar;
 
 public class A43SobrecargaDeMetodos {
 

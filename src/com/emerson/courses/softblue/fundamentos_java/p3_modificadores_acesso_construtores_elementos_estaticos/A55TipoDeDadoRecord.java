@@ -1,6 +1,6 @@
 package com.emerson.courses.softblue.fundamentos_java.p3_modificadores_acesso_construtores_elementos_estaticos;
 
-import com.emerson.courses.algaworks.utils.Mostrar;
+import com.emerson.utils.Mostrar;
 
 public class A55TipoDeDadoRecord {
   public static void main(String[] args) {

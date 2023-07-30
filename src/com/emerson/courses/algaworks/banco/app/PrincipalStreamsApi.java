@@ -8,7 +8,7 @@ import java.util.List;
 import com.emerson.courses.algaworks.banco.modelo.Banco;
 import com.emerson.courses.algaworks.banco.modelo.Conta;
 import com.emerson.courses.algaworks.banco.modelo.Pessoa;
-import com.emerson.courses.algaworks.utils.Mostrar;
+import com.emerson.utils.Mostrar;
 
 public class PrincipalStreamsApi {
 

@@ -5,7 +5,7 @@ import java.util.function.ToIntFunction;
 
 import com.emerson.courses.algaworks.banco.modelo.Banco;
 import com.emerson.courses.algaworks.banco.modelo.Conta;
-import com.emerson.courses.algaworks.utils.Mostrar;
+import com.emerson.utils.Mostrar;
 
 public class PrincipalInterfacesFuncionaisExpressoesLambda {
 
