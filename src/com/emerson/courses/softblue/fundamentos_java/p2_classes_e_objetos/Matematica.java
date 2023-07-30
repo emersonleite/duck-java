@@ -6,7 +6,7 @@ public class Matematica {
     return x + y;
   }
 
-  /* Sobrecarga com variação nos parâmetros */
+  /* Sobrecarga com variação nos parâmetros, dentro de uma mesma classe */
   int somar(int x, int y, int z) {
     return x + y + z;
   }
