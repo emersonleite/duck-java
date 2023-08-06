@@ -6,7 +6,7 @@ public class A82TratandoELancandoCheckedExceptions {
     Banco banco = new Banco(1500);
 
     try {
-      banco.realizarOperacao(1200);
+      banco.realizarOperacao(1600);
     } catch (SaldoInsuficienteNaContaException e) {
       System.out.println("Você tentou sacar " + e.getValor() +
           ", mas tem um saldo de " + e.getSaldo());
