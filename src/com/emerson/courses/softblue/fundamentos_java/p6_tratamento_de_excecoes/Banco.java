@@ -6,10 +6,9 @@ public class Banco {
 
   public Banco(double saldoInicial) {
     conta = new ContaBancaria(saldoInicial);
-
   }
 
-  /* Lançando a exceção para quem chama */
+  /* Lançando a exceção para quem chama. Ela não é tratada aqui */
   public void realizarOperacao(double valorASacar) throws ValorNegativoException, SaldoInsuficienteNaContaException {
 
     // ContaBancaria conta = new ContaBancaria(1000);
@@ -28,6 +27,18 @@ public class Banco {
 
     System.out.println(conta.getSaldo());
     /* } */
+
+  }
+
+  /* Com uma excecao que envolve as outras duas */
+  public void realizarOperacaoComOutroTratamento(double valorASacar) throws BancoException {
+    try {
+      conta.sacar(valorASacar);
+    } catch (ValorNegativoException e) {
+      throw new BancoException("Erro de saque: Valor negativo", e);
+    } catch (SaldoInsuficienteNaContaException e) {
+      throw new BancoException("Erro de saque: Saldo insuficiente", e);
+    }
   }
 
 }

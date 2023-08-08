@@ -18,4 +18,9 @@ public class SaldoInsuficienteNaContaException extends Exception {
     return saldo;
   }
 
+  @Override
+  public String toString() {
+    return "SaldoInsuficienteNaContaException";
+  }
+
 }
