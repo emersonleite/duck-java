@@ -10,7 +10,7 @@ public class A83TrabalhandoComUncheckedExceptions {
    */
   public static void main(String[] args) {
 
-    Object o1 = new Object();
+    // Object o1 = new Object();
     Object o2 = new Object();
 
     // boolean iguais = Comparador.comparar(o1, o2);
