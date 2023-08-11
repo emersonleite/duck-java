@@ -1,0 +1,309 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "A88MaisInformacoesSobreAExcecaoNullPointerException",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A88MaisInformacoesSobreAExcecaoNullPointerException",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Principal",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.Principal",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "PrincipalCollectionsList",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.PrincipalCollectionsList",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "PrincipalCollectionsSet",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.PrincipalCollectionsSet",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "PrincipalInterfacesFuncionaisExpressoesLambda",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.PrincipalInterfacesFuncionaisExpressoesLambda",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "PrincipalOptional",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.PrincipalOptional",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "PrincipalStreamsApi",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.PrincipalStreamsApi",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "TesteCalculos",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.TesteCalculos",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraCortisol",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.fundamentos.modelo.CalculadoraCortisol",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraJurosCompostaMeta",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.fundamentos.modelo.CalculadoraJurosCompostaMeta",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "CalculadoraJurosCompostosTempo",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.fundamentos.modelo.CalculadoraJurosCompostosTempo",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "OlaMergulhador",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.fundamentos.modelo.OlaMergulhador",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "Stack_ConversorDecimalToBinary",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.isidro.estrutura_de_dados.Stack_ConversorDecimalToBinary",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "Principal(1)",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.loiane.estrutura_de_dados.lista_encadeada.app.Principal",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A32Variaveis",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p1_conceitos_iniciais.A32Variaveis",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A33TipoVar",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p1_conceitos_iniciais.A33TipoVar",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A34CastingTiposPrimitivos",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p1_conceitos_iniciais.A34CastingTiposPrimitivos",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A35EstruturasIfSwitch",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p1_conceitos_iniciais.A35EstruturasIfSwitch",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A36SwitchExpressions",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p1_conceitos_iniciais.A36SwitchExpressions",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A37WhileDoWhileFor",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p1_conceitos_iniciais.A37WhileDoWhileFor",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A42CriandoClassesEObjetos",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p2_classes_e_objetos.A42CriandoClassesEObjetos",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A43SobrecargaDeMetodos",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p2_classes_e_objetos.A43SobrecargaDeMetodos",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A44PassagemDeParametros",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p2_classes_e_objetos.A44PassagemDeParametros",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A52ModificadoresDeAcesso",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p3_modificadores_acesso_construtores_elementos_estaticos.A52ModificadoresDeAcesso",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A53ConstrutoresDeClasses",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p3_modificadores_acesso_construtores_elementos_estaticos.A53ConstrutoresDeClasses",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A54ElementosEstaticos",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p3_modificadores_acesso_construtores_elementos_estaticos.A54ElementosEstaticos",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A55TipoDeDadoRecord",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p3_modificadores_acesso_construtores_elementos_estaticos.A55TipoDeDadoRecord",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A62AplicandoHerançaEntreClassesNoJava",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p4_heranca_e_polimorfismo.A62AplicandoHerançaEntreClassesNoJava",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A63ConstrutoresEAHerança",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p4_heranca_e_polimorfismo.A63ConstrutoresEAHerança",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A64AplicandoPolimorfismoNoJava",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p4_heranca_e_polimorfismo.A64AplicandoPolimorfismoNoJava",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A65ExemploPraticoDePolimorfismo",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p4_heranca_e_polimorfismo.A65ExemploPraticoDePolimorfismo",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "Principal(2)",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p4_heranca_e_polimorfismo.e1.Principal",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "Principal(3)",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p4_heranca_e_polimorfismo.e2.Principal",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A72CriandoClassesAbstratas",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p5_classes_abstratas_e_interfaces.A72CriandoClassesAbstratas",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A73Criando_interfaces",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p5_classes_abstratas_e_interfaces.A73Criando_interfaces",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A74ModificadoresDefaultEStatic",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p5_classes_abstratas_e_interfaces.A74ModificadoresDefaultEStatic",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A82TratandoELancandoCheckedExceptions",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A82TratandoELancandoCheckedExceptions",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A83TrabalhandoComUncheckedExceptions",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A83TrabalhandoComUncheckedExceptions",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A84ComoUtilizarOBlocoFinally",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A84ComoUtilizarOBlocoFinally",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A85CompreendendoAStacktrace",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A85CompreendendoAStacktrace",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A86IdentificandoErrosEmAplicacoesJava",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A86IdentificandoErrosEmAplicacoesJava",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A87TrabalhandoComAssertions",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A87TrabalhandoComAssertions",
+      "projectName": "___duck-java_65f45270",
+      "vmArgs": "-enableassertions -XX:+ShowCodeDetailsInExceptionMessages"
+    }
+  ]
+}
