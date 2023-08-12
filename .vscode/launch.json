@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Teste",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.Teste",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A98GerandoNumerosRandomicos",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.A98GerandoNumerosRandomicos",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A97UsandoADateAndTimeAPI",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.A97UsandoADateAndTimeAPI",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A96ManipulandoDatas",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.A96ManipulandoDatas",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A95FormatandoNumeros",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.A95FormatandoNumeros",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A94UsandoOStringBuilder",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.A94UsandoOStringBuilder",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A93TrabalhandoComStrings",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.A93TrabalhandoComStrings",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A92ExplorandoOsTextBlocks",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.A92ExplorandoOsTextBlocks",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "Principal",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.Principal",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
       "name": "A88MaisInformacoesSobreAExcecaoNullPointerException",
       "request": "launch",
       "mainClass": "com.emerson.courses.softblue.fundamentos_java.p6_tratamento_de_excecoes.A88MaisInformacoesSobreAExcecaoNullPointerException",
