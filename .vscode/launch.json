@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p8_enums_classes_wrappers_e_autoboxing.Test",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "Exemplo",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p8_enums_classes_wrappers_e_autoboxing.Exemplo",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A104TirandoVantagemDoAutoboxing",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p8_enums_classes_wrappers_e_autoboxing.A104TirandoVantagemDoAutoboxing",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A103EmbrulhandoTiposPrimitivosComAsClassesWrappers",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p8_enums_classes_wrappers_e_autoboxing.A103EmbrulhandoTiposPrimitivosComAsClassesWrappers",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
+      "name": "A102CriandoEnums",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p8_enums_classes_wrappers_e_autoboxing.A102CriandoEnums",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
       "name": "Teste",
       "request": "launch",
       "mainClass": "com.emerson.courses.softblue.fundamentos_java.p7_strings_datas_e_numeros.Teste",
