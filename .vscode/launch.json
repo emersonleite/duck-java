@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Teste",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.softblue.fundamentos_java.p10_colecao_de_dados.Teste",
+      "projectName": "___duck-java_65f45270"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "com.emerson.courses.softblue.fundamentos_java.p8_enums_classes_wrappers_e_autoboxing.Test",
