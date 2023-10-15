@@ -7,7 +7,8 @@ public class Inferencia {
         double a = 4.50;
         System.out.println(a);
 
-        var b = 4.50; // Inferencia pelo valor, nesse caso double
+        // Inferencia pelo valor, nesse caso double
+        var b = 4.50;
         System.out.println(b);
 
         var c = "Texto";
@@ -19,8 +20,10 @@ public class Inferencia {
         // Não pode ser feito isso
         // c = 4.50;
 
-        double d;           // Declaração
-        d = 123.65;         // Inicialização
+        // Declaração
+        double d;
+        // Inicialização
+        d = 123.65;
         System.out.println(d);
 
         // var e; // Não pode ser declarada somente
@@ -29,6 +32,7 @@ public class Inferencia {
 
         var f = 12;
         // f = 12.01; // erro
+        System.out.println(f);
 
 
     }
