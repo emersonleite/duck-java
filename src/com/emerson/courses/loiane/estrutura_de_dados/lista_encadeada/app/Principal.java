@@ -12,6 +12,7 @@ public class Principal {
     list.add(3);
     list.add(4);
 
+
     System.out.println(list);
     System.out.println("Tamanho: " + list.obterTamanho());
 
