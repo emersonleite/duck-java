@@ -6,6 +6,7 @@ public class AreaCircunferencia {
 
         double raio = 3.4;
 
+        // Constante
         final double PI = 3.14159;
 
         double area = PI * raio * raio;
