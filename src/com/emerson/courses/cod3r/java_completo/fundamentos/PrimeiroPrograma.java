@@ -2,11 +2,6 @@ package com.emerson.courses.cod3r.java_completo.fundamentos;
 
 public class PrimeiroPrograma {
 
-    /**
-     *
-     *
-     */
-
     public static final String ola = "Ola mundo";
 
     public static void main(String[] args) {
