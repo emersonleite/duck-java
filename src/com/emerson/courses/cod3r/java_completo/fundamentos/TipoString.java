@@ -20,15 +20,18 @@ public class TipoString {
         System.out.println(s.equalsIgnoreCase("boa tarde"));
 
         s = "Boa noite!!!";
+        int idade = 32;
+        var salario = 523.005;
 
         var nome = "Pedro";
         nome = nome.toUpperCase();
         System.out.println(nome);
 
-        System.out.printf("Nome: %s %n", nome);
+        // Com printf é possível imprimir com formatação
+        System.out.printf("Nome: %s, %d anos, salário: R$ %.2f \n", nome, idade, salario);
 
-        // Criando a ‘string’ com String.format
-        String frase = String.format("O nome dele é %s", nome);
+        // Criando a ‘string’ formatada com String.format
+        String frase = String.format("Nome: %s, %d anos, salário: R$ %.2f \n", nome, idade, salario);
         System.out.println(frase);
 
         System.out.println("Frase qualquer".contains("qual"));
