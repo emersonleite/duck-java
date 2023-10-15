@@ -6,7 +6,7 @@ public class TipoString {
 
         System.out.println("Olá pessoal".charAt(2));
 
-        // String é um objeto imutável. Não é possível mudar o valor original.
+        // ‘String’ é um objeto imutável. Não é possível mudar o valor original.
         // Se precisar de transformação, recorrer a outra variável, ou re atribuir a própria variável
 
 
@@ -26,7 +26,7 @@ public class TipoString {
 
         System.out.printf("Nome: %s %n", nome);
 
-        // Criando a string com String.format
+        // Criando a ‘string’ com String.format
         String frase = String.format("O nome dele é %s", nome);
         System.out.println(frase);
 
