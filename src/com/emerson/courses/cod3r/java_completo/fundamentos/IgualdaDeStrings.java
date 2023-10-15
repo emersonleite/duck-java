@@ -1,6 +1,6 @@
 package com.emerson.courses.cod3r.java_completo.fundamentos;
 
-public class IgualdadeStrings {
+public class IgualdaDeStrings {
 
     public static void main(String[] args) {
         String s = new String("2");
