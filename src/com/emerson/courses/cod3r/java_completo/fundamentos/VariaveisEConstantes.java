@@ -1,6 +1,6 @@
 package com.emerson.courses.cod3r.java_completo.fundamentos;
 
-public class AreaCircunferencia {
+public class VariaveisEConstantes {
 
     public static void main(String[] args) {
 
