@@ -4,7 +4,7 @@ public class NotacaoPonto {
 
     public static void main(String[] args) {
 
-        // Tipos pritivos não tem o operador '.'
+        // Tipos primitivos não tem o operador '.'
 
         String s = "Bom dia X";
 
