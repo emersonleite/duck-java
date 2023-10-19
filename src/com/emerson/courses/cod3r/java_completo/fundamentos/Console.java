@@ -14,7 +14,7 @@ public class Console {
         System.out.println("Bom");
         System.out.println("dia");
 
-        System.out.printf("Megasena %d %d %d %d %d %n \n", 1,5,2,1,4);
+        System.out.printf("Megasena %d %d %d %d %d %n \n", 1, 5, 2, 1, 4);
 
         System.out.printf("Salário: %.1f \n", 500.85);
 
