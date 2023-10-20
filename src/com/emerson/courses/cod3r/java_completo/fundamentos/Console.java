@@ -14,6 +14,7 @@ public class Console {
         System.out.println("Bom");
         System.out.println("dia");
 
+        // String formatada
         System.out.printf("Megasena %d %d %d %d %d %n \n", 1, 5, 2, 1, 4);
 
         System.out.printf("Salário: %.1f \n", 500.85);
@@ -35,6 +36,7 @@ public class Console {
         System.out.println("\n\nNome: " + nome + " " + sobrenome);
         System.out.println("tem " + idade + " anos");
 
+        // Fechando o scanner
         entrada.close();
 
     }
