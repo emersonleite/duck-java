@@ -9,6 +9,11 @@
 				{
 					"name": "JavaSE-20",
 					"path": "C:\\Users\\emerson.leite\\jdk\\jdk-21.0.1",
+					"default": false
+				},
+                {
+					"name": "JavaSE-17",
+					"path": "C:\\Users\\emerson.leite\\jdk\\graalvm-jdk-17.0.9",
 					"default": true
 				},
 			],
