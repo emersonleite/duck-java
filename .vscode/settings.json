@@ -4,10 +4,13 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "java.configuration.runtimes": [
-        {"name": "JavaSE-17",
-      "path": "/usr/lib/jvm/java-17-openjdk-amd64"}
-      ],
-      "java.debug.settings.console": "internalConsole",
+    "java.debug.settings.console": "internalConsole",
+			"java.configuration.runtimes": [
+				{
+					"name": "JavaSE-20",
+					"path": "C:\\Users\\emerson.leite\\jdk\\jdk-21.0.1",
+					"default": true
+				},
+			],
       "explorer.compactFolders": false
 }

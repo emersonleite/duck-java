@@ -10,7 +10,6 @@ public class IfElseIf {
         Locale.setDefault(Locale.US);
         Scanner entrada = new Scanner(System.in);
 
-
         System.out.println("Digite uma nota");
         double nota = entrada.nextDouble();
 
@@ -28,6 +27,7 @@ public class IfElseIf {
             System.out.println("Conceito E");
         }
 
+        entrada.close();
     }
 
 }

@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NextInt",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.NextInt",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "Console",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.Console",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
       "name": "Teste",
       "request": "launch",
       "mainClass": "com.emerson.courses.softblue.fundamentos_java.p10_colecao_de_dados.Teste",

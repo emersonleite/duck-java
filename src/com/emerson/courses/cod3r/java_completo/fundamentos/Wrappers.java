@@ -31,8 +31,5 @@ public class Wrappers {
 
         // char
         Character c = 'T';
-
-
     }
-
 }
