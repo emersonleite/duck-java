@@ -47,7 +47,7 @@ public class PrincipalCollectionsList {
       System.out.println(pessoas.get(i).getNome());
     }
 
-    /* Oura forma de interar */
+    /* Outra forma de interar */
     System.out.println();
     for (Pessoa pessoa : pessoas) {
       System.out.println(pessoa.getNome());
