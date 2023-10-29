@@ -9,7 +9,7 @@ public class DesafioConversao {
 
         Scanner sc = new Scanner(System.in);
 
-        //Locale.setDefault(Locale.US);
+        // Locale.setDefault(Locale.US);
 
         var locale = Locale.getDefault().toString();
 
@@ -19,17 +19,16 @@ public class DesafioConversao {
         String salario1 = sc.nextLine();
         double salario1b = Double.parseDouble(salario1.replace(",", "."));
 
-
         System.out.println("Entre com o salário 2");
         String salario2 = sc.nextLine();
         double salario2b = Double.parseDouble(salario2.replace(",", "."));
-
 
         System.out.println("Entre com o salário 3");
         String salario3 = sc.nextLine();
         double salario3b = Double.parseDouble(salario3.replace(",", "."));
 
-
         System.out.println("Média " + ((salario1b + salario2b + salario3b) / 3));
+
+        sc.close();
     }
 }
