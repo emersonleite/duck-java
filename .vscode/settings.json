@@ -4,7 +4,7 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "java.debug.settings.console": "internalConsole",
+    "java.debug.settings.console": "integratedTerminal",
 			"java.configuration.runtimes": [
 				{
 					"name": "JavaSE-20",

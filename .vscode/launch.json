@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "For1",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle.For1",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "IgualdaDeStrings",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.IgualdaDeStrings",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "ConversaoStringNumero",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.ConversaoStringNumero",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "Wrappers",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.Wrappers",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "ObjetoVsPrimitivo",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.ObjetoVsPrimitivo",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "Stack_ConversorDecimalToBinary",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.isidro.estrutura_de_dados.Stack_ConversorDecimalToBinary",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
       "name": "Principal",
       "request": "launch",
       "mainClass": "com.emerson.courses.loiane.estrutura_de_dados.lista_encadeada.app.Principal",
