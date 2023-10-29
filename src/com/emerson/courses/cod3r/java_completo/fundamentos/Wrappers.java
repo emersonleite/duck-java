@@ -12,6 +12,8 @@ public class Wrappers {
 
         // int
         Integer i = 10000;
+        i.toString();
+        System.out.println(i);
 
         // long
         Long l = 1000000L;
@@ -31,5 +33,6 @@ public class Wrappers {
 
         // char
         Character c = 'T';
+
     }
 }
