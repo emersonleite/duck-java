@@ -1,4 +1,4 @@
-package com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle;
+package com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle;
 
 import java.util.Locale;
 import java.util.Scanner;

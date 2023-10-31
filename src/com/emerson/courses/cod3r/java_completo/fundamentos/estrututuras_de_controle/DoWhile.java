@@ -1,12 +1,10 @@
-package com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle;
+package com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle;
 
 import java.util.Scanner;
 
 public class DoWhile {
 
-
     public static void main(String[] args) {
-
 
         Scanner entrada = new Scanner(System.in);
 

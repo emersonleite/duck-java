@@ -1,4 +1,4 @@
-package com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle;
+package com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle;
 
 import javax.swing.*;
 
@@ -10,7 +10,7 @@ public class IfElse {
 
         int numero = Integer.parseInt(valor);
 
-        if(numero % 2 == 0){
+        if (numero % 2 == 0) {
             System.out.println("Número par");
         } else {
             System.out.println("Número ímpar");

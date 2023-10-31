@@ -1,4 +1,4 @@
-package com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle;
+package com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle;
 
 import java.util.Scanner;
 
@@ -12,8 +12,8 @@ public class If {
         double media = entrada.nextDouble();
 
         // Sem colchetes para uma linha
-//        if(media >= 7)
-//            System.out.println("Aprovado");
+        // if(media >= 7)
+        // System.out.println("Aprovado");
 
         if (media >= 7) {
             System.out.println("Aprovado");

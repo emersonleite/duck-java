@@ -1,4 +1,4 @@
-package com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle;
+package com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle;
 
 public class For1 {
 

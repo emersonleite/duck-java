@@ -20,5 +20,9 @@ public class ConversaoTiposPrimitivosNumericos {
         double e = 1;
         int f = (int) e;
         System.out.println(f);
+
+        // Conversão explícita - há perda de informação
+        int g = (int) 1.06565655;
+        System.out.println(g);
     }
 }

@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Continue",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle.Continue",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "Break",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle.Break",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "SwitchSemBreak",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle.SwitchSemBreak",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "ConversaoTiposPrimitivosNumericos",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.ConversaoTiposPrimitivosNumericos",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "For3",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle.For3",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "For2",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle.For2",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "DesafioCalculadora",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.operadores.DesafioCalculadora",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
       "name": "For1",
       "request": "launch",
       "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututurasDeControle.For1",
