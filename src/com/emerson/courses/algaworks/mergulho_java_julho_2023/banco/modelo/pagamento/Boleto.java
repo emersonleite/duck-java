@@ -8,7 +8,7 @@ import com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.modelo.Pesso
 
 /* 2. Um classe pode implementar várias interfaces */
 
-/* Como DocumentoEstornavel extende DocumentoPagavel a 
+/* Como DocumentoEstornavel extende DocumentoPagavel a
 declaração abaixo é redundante e foi comentada   */
 
 public class Boleto implements DocumentoEstornavel /* , DocumentoPagavel */ {

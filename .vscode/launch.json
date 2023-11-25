@@ -6,6 +6,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TesteChess",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.poo_usp.TesteChess",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "PrimeiroTrauma",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.classe_e_metodos.PrimeiroTrauma",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "ValorVsReferencia",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.classe_e_metodos.ValorVsReferencia",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "AreaCircTeste",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.classe_e_metodos.AreaCircTeste",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "ProdutoTeste",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.classe_e_metodos.ProdutoTeste",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "DataTeste",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.classe_e_metodos.DataTeste",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "TesteDoProduto",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.classe_e_metodos.TesteDoProduto",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "Produto",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.classe_e_metodos.Produto",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
       "name": "Continue",
       "request": "launch",
       "mainClass": "com.emerson.courses.cod3r.java_completo.fundamentos.estrututuras_de_controle.Continue",
