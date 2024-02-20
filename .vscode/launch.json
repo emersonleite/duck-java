@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OlaMergulhador",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.fundamentos.modelo.OlaMergulhador",
+      "projectName": "duck-java_fb2528e9"
+    },
+    {
+      "type": "java",
+      "name": "Atividade05",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.pos_graduacao.Atividade05",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "Billion",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.teste.Billion",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
+      "name": "PrincipalCollectionsSet",
+      "request": "launch",
+      "mainClass": "com.emerson.courses.algaworks.mergulho_java_julho_2023.banco.app.PrincipalCollectionsSet",
+      "projectName": "duck_java_fde5c01b"
+    },
+    {
+      "type": "java",
       "name": "TesteChess",
       "request": "launch",
       "mainClass": "com.emerson.courses.poo_usp.TesteChess",
