@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/___duck-java.iml" filepath="$PROJECT_DIR$/___duck-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duck-java.iml" filepath="$PROJECT_DIR$/duck-java.iml" />
     </modules>
   </component>
 </project>
